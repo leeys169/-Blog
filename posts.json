@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "title": "웹 표준 및 프론트엔드 기초 기술 스택 입문",
+    "category": "Foundation",
+    "mood": "Excited",
+    "color": "#1E90FF",
+    "date": "2025-10-24",
+    "content": "HTML5와 CSS3를 활용한 웹 표준 준수 방식을 익히며 개발자로서의 첫 발을 뗐다. 구조(Markup)와 표현(Design)의 분리 원칙을 학습하며 탄탄한 기초를 다져야지.",
+    "tags": [
+      "HTML5",
+      "CSS"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "크로스 브라우징을 고려한 웹 리뉴얼 프로젝트",
+    "category": "project",
+    "mood": "Happy",
+    "color": "#FFD700",
+    "date": "2025-12-30",
+    "content": "서울스카이와 사이트 리뉴얼을 통해 시맨틱 마크업과 JavaScript를 활용한 인터랙션 구현을 완성했다. 기획부터 배포까지 전체 프로세스를 경험하며 실전 감각을 키웠다.",
+    "tags": [
+      "Semantic_HTML",
+      "Vanilla_JS",
+      "Cross_Browsing"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "RESTful API 통신 구조 설계 및 기초 다지기",
+    "category": "Backend",
+    "mood": "Motivated",
+    "color": "#FF8C00",
+    "date": "2026-01-05",
+    "content": "프론트엔드와 백엔드의 접점인 API 통신 절차를 학습하기 시작했습니다. HTTP 메서드의 이해를 바탕으로 데이터가 어떻게 오가는지 파악하며 협업의 첫 단추를 끼웠당..",
+    "tags": [
+      "REST_API",
+      "HTTP_Methods",
+      "Backend_Interface"
+    ]
+  },
+  {
+    "id": 1775451407930,
+    "title": "효율적인 작업 스케줄링과 협업 워크플로우 관리",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-01-12",
+    "content": "신규 기술 스택 학습과 팀 프로젝트 병행을 하니 일정 관리의 중요성을 깨닫게된다.. 효율적인 업무 분담으로 협업의 시너지를 높이를 법과 참는 법을 배웠다",
+    "tags": [
+      "Time_Management",
+      "Agile"
+    ]
+  },
+  {
+    "id": 1775452368284,
+    "title": "사용자 중심 UI/UX 디자인 및 컴포넌트 구조화",
+    "category": "Happy",
+    "mood": "Relaxed",
+    "color": "#B2F7EF",
+    "date": "2026-01-20",
+    "content": "403Motors 프로젝트의 아이덴티티를 살린 UI디자인을 완성했다. 시각적 일관성을 유지하면서도 사용자 경험을 고려한 레이아웃 설계에 집중하여 긍정적인 피드백을 얻었다.",
+    "tags": [
+      "UI_Design",
+      "UX_Optimization"
+    ]
+  },
+  {
+    "id": 1775454466920,
+    "title": "API 데이터 바인딩 및 동적 렌더링 구현",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-01-23",
+    "content": "클라이언트-서버 간의 협업 구조를 이해하고, 정적인 HTML 구조를 탈피하여 API로 수신한 JSON데이터를 유연하게 화면에 렌더링 하는 설계 방식을 익혔다.",
+    "tags": [
+      "API",
+      "Rendering"
+    ]
+  },
+  {
+    "id": 1775456324136,
+    "title": "CSS 충돌 해결 및 레이아웃 디버깅",
+    "category": "Confused",
+    "mood": "Confused",
+    "color": "#A0522D",
+    "date": "2026-01-27",
+    "content": "백엔드 데이터 연동 과정에서 예상치 못한 CSS 레이아웃 붕괴 현상을 겪었다. 상속 문제와 우선 순위를 분석하며 스타일 시트의 구조적 결합도를 낮추는 법을 고민해봐야겠다.",
+    "tags": [
+      "Layout_Refactoring",
+      "CSS_Debug"
+    ]
+  },
+  {
+    "id": 1775456427480,
+    "title": "Git 버전 관리와 협업 워크플로우",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-01-28",
+    "content": "분산 버전 관리 시스템의 흐름을 학습했다. 브랜치 전략과 충동 해결과정을 익히며 효율적인 팀 협업을 위한 기초 체력을 다졌지만 아직은 너무 어렵다",
+    "tags": [
+      "Git",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": 1775456567144,
+    "title": "데이터 주도 프로젝트의 성공적 완수",
+    "category": "Relaxed",
+    "mood": "Relaxed",
+    "color": "#B2F7EF",
+    "date": "2026-02-11",
+    "content": "동적 데이터 렌더링 과정의 수많은 시행착오를 거쳐 프로젝트를 완료했다. 데이터 구조의 유효성을 검증하며 백엔드와의 인터페이스 정합성을 맞추는 경험을 쌓았다.",
+    "tags": [
+      "Project_Complete",
+      "Data_Integration"
+    ]
+  },
+  {
+    "id": 1775456669462,
+    "title": "Flexbox를 활용한 애플 사이트 클론",
+    "category": "Focused",
+    "mood": "Focused",
+    "color": "#00B894",
+    "date": "2026-02-18",
+    "content": "Flex 레이아웃을 공부하기 위해 애플 사이트를 클론코딩 했다. 미디어쿼리를 활용한 유동적 그리드 설계로 기기별 최적화된 반응형 레이아웃 대응법을 익힐 수 있었다.",
+    "tags": [
+      "Flexbox",
+      "Clone_Coding"
+    ]
+  },
+  {
+    "id": 1775456761943,
+    "title": "Figma를 활용한 컴포넌트 중심 설계",
+    "category": "Normal",
+    "mood": "Normal",
+    "color": "#D3D3D3",
+    "date": "2026-02-23",
+    "content": "개발 전 피그마를 통해 UI 구성을 시각화했다. 디자인 시스템의 기초를 이해하고 개발 효율을 높이기 위한 컴포넌트 단위 설계를 공부했다.",
+    "tags": [
+      "Figma",
+      "Design_System"
+    ]
+  },
+  {
+    "id": 1775456841286,
+    "title": "커리어 포트폴리오 기획 및 아이데이션",
+    "category": "Anxious",
+    "mood": "Anxious",
+    "color": "#9370DB",
+    "date": "2026-03-04",
+    "content": "단순한 기술 나열이 아닌, 문제 해결 역량을 보여줄 수 있는 프로젝트 구성을 고민중이다...",
+    "tags": [
+      "Portfolio_Planning",
+      "Idea"
+    ]
+  },
+  {
+    "id": 1775456917319,
+    "title": "JavaScript 핵심 메커니즘 정복",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-05",
+    "content": "실행 컨텍스트와 흐름 제어의 기초인 조건문, 반복문, 배열 메서드를 깊이 있게 공부했다. 코드의 동작 원리를 이해하며 논리적인 프로그래밍 사고력을 기르고 싶다.",
+    "tags": [
+      "JavaScript_Base",
+      "Code_Logic"
+    ]
+  },
+  {
+    "id": 1775456978502,
+    "title": "구조 분해 할당과 다차원 배열 활용",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-06",
+    "content": "구조 분해 할당을 통해 데이터 접근성을 높이고, 2차원 배열의 인덱스를 제여하여 빙고 게임 로직을 구현했다. 복잡한 데이터 구조를 다루는 법을 조금은 알 것 같다.",
+    "tags": [
+      "Destructuring",
+      "Game_Logic"
+    ]
+  },
+  {
+    "id": 1775457058184,
+    "title": "배열 고차 함수: forEach 메서드 이해",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-09",
+    "content": "생일이여도 공부는 계속된당..배열의 모든 요소를 순회하며 콜백 함수를 실행하는 forEach의 동작방식을 파악했다. 선언적 프로그래밍 스타일로 간결하게 코드를 작성하는 방법을 연습했다. 어렵",
+    "tags": [
+      "Array_Method",
+      "forEach"
+    ]
+  },
+  {
+    "id": 1775457124054,
+    "title": "React 입문: SPA와 Router 설계",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-10",
+    "content": "드디어 리액트에 입문했다. react-router-dom을 사용해 페이지 전환 없이 매끄러운 사용자 경헙을 제공하는 구조를 연습했다. ",
+    "tags": [
+      "React",
+      "React_Router"
+    ]
+  },
+  {
+    "id": 1775457191486,
+    "title": "JSX 문법과 컴포넌트 재사용성",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-10",
+    "content": "HTML과 JS가 결합된 JSX 문법을 익히고, 반복되는 UI 요소를 독립적인 컴포넌트로 분리해 관리하는 리액트의 핵심 철학을 공부중이다.",
+    "tags": [
+      "JSX",
+      "React_Basic"
+    ]
+  },
+  {
+    "id": 1775457271358,
+    "title": "상태 관리의 핵심: useState Hook",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-11",
+    "content": "useState를 통해 컴포넌트 내부에서 변하는 데이터를 관리하는 법을 익히는 중이다. 데이터(State)의 변화가 자동으로 UI를 업테이트하는 선언적?렌더링을 경험하는 중이다.",
+    "tags": [
+      "useState",
+      "Hooks"
+    ]
+  },
+  {
+    "id": 1775457318342,
+    "title": "컴포넌트 생명주기와 useEffect",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-11",
+    "content": "의존성 배열을 활용해 컴포넌트의 마운트, 업데이트, 언마운트 시점에 특정 로직을 실행하는 useEffect의 사용법과 최적화 방안을 공부했다.",
+    "tags": [
+      "useEffect",
+      "Lifecycle"
+    ]
+  },
+  {
+    "id": 1775457382911,
+    "title": "Props Drilling 해결과 데이터 흐름",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-12",
+    "content": "부모-자식 간 데이터를 전달하는 props의 개념을 익히고 복잡한 트리구조에서 효율적으로 데이터를 관리하는 단방향 데이터 흐름의 원칙을 배웠다.",
+    "tags": [
+      "Props",
+      "Unidirectional"
+    ]
+  },
+  {
+    "id": 1775457760463,
+    "title": "Node.js 비동기 제어와 IIFE 패턴",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-16",
+    "content": "이벤트 루트 기반의 동기/비ㅐ동기 처리 메커니즘을 학습했다. 즉시 실행 함수(IIFE)를 활용해 변수 범위를 제한하고 초기화 로직을 안전하게 보호하는 법을 배웠다.",
+    "tags": [
+      "Async_Await",
+      "Event_Loop"
+    ]
+  },
+  {
+    "id": 1775457833744,
+    "title": "CommonJS 모듈 시스템과 내장 객체",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-17",
+    "content": "require를 이용한 모듈 의존성 관리와 path,global 등 Node.js 내장 객체의 활용법을 공부했다. 서버 환경에서 파일 경로를 안전하게 다루는 법을 배웠다 너무 어렵다.",
+    "tags": [
+      "NodeJS_Modules",
+      "CommonJS"
+    ]
+  },
+  {
+    "id": 1775457912334,
+    "title": "HTTP 서버 구축과 Express 프레임워크",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-18",
+    "content": "로우레벨의 HTTP 모듈부터 고수준의 Express까지 활용하여 서버를 구축하는 법을 배웠다. 라우팅 설계를 통해 클라이언트 요청에 따른 분기 처리와 REST API 구조를 학습했다",
+    "tags": [
+      "HTTP_Server",
+      "ExpressJS",
+      "REST_API_Design"
+    ]
+  },
+  {
+    "id": 1775457961502,
+    "title": "미들웨어와 Express 라우팅 시스템",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-19",
+    "content": "app.use를 통한 미들웨어 체이닝과 body-parser로 요청 본문을 파싱하는 법을 배웠다. 계층적인 라우터 분리로 서버 코드의 유지보수성을 높이는 구조를 설계할 수 있다고 한다.",
+    "tags": [
+      "Middleware",
+      "Body_Parser"
+    ]
+  },
+  {
+    "id": 1775458022551,
+    "title": "NoSQL 데이터베이스와 데이터 플로우",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-23",
+    "content": "클라이언트 요청이 Express를 거쳐 MongoDB에 도달하고, JSON 응답으로 화면에 출력되기까지의 전체 데이터 사이클을 구현하며 백엔드 통신 흐름을 배웠다. 진짜 어렵네..",
+    "tags": [
+      "MongoDB",
+      "NoSQL"
+    ]
+  },
+  {
+    "id": 1775458073182,
+    "title": "Mongoose 스키마 설계와 MVC 패턴",
+    "category": "Study",
+    "mood": "Study",
+    "color": "#A29BFE",
+    "date": "2026-03-24",
+    "content": "Mongoose를 이용해 데이터 규격(Schema/Model)을 정의하고, 라우터가 컨트롤러를 호출하는 MVC 패턴을 알게됐다. RESTful한 CRUD(GET, POST, PUT, DELETE)를 완성했다.",
+    "tags": [
+      "Mongoose",
+      "CRUD_Operations",
+      "MVC_Pattern"
+    ]
+  },
+  {
+    "id": 1775458267959,
+    "title": "비정형 그리드 레이아웃 구현의 시행착오",
+    "category": "Frustrated",
+    "mood": "Frustrated",
+    "color": "#FF4500",
+    "date": "2026-03-19",
+    "content": "코닥 사이트 특유의 복잡하고 비대칭적인 그리드 구조를 구현하며 레이아웃 배치에 큰 난관을 겪는중... 단순히 요소를 나열하는 것을 넘어, 각 섹션이 해상도에 따라 유기적으로 위치를 변경해야 하는 고난도 설계 과정에서 CSS Grid의 정교한 제어 필요성을 느낀다 ㅠㅠ",
+    "tags": [
+      "Layout",
+      "반응형"
+    ]
+  },
+  {
+    "id": 1775458352350,
+    "title": "비정형 그리드 구현 중 레이아웃 구조의 한계 직면",
+    "category": "Calm",
+    "mood": "Calm",
+    "color": "#98FB98",
+    "date": "2026-03-20",
+    "content": "코닥 사이트 특유의 복잡하고 비대칭적인 그리드 구조를 단일 HTML로 구현하려다 보니, 특정 해상도에서 레이아웃이 붕괴된다. CSS만으로는 모바일 환경의 최적화된 UX를 제공하기에 구조적 한계가 있다. HTML을 추가하자...",
+    "tags": [
+      "Layout",
+      "반응형"
+    ]
+  },
+  {
+    "id": 1775458460422,
+    "title": "모바일 최적화를 위한 마크업 분리 및 적응형 설계",
+    "category": "Focused",
+    "mood": "Focused",
+    "color": "#00B894",
+    "date": "2026-03-21",
+    "content": "무리한 CSS 제어 대신, 모바일 환경에 최적화된 HTML 구조를 별도로 설계했다. 디바이스 환경에 따라 마크업을 전환하는 방식을 채택하여, 코드의 가독성을 높이고 모바일 사용자에게 더 직관적인 인터페이스를 제공할 수 있게 했다.",
+    "tags": [
+      "반응형",
+      "어렵다"
+    ]
+  },
+  {
+    "id": 1775458534263,
+    "title": "완전 반응형 레이아웃 전환 및 클론코딩 완수",
+    "category": "Excited",
+    "mood": "Excited",
+    "color": "#1E90FF",
+    "date": "2026-03-24",
+    "content": "해상도에 따라 레이아웃이 유연하게 재구성되는 고난도 반응형 UI를 완성했다. 환경별 최적화된 마크업과 정교한 미디어 쿼리 제어를 통해, 어떤 기기에서도 코닥의 브랜드 아이덴티티가 완벽하게 유지되게끔 열심히했다. 덕분에 공부도 했다.",
+    "tags": [
+      "Project_Complete",
+      "Responsive"
+    ]
+  },
+  {
+    "id": 1775459483957,
+    "title": "GSAP를 활용한 고난도 스크롤 인터랙션 설계",
+    "category": "Energetic",
+    "mood": "Energetic",
+    "color": "#FF3B3B",
+    "date": "2026-02-25",
+    "content": "정적인 웹을 넘어, 사용자 경험(UX)에 생동감을 불어넣기 위해 GSAP 라이브러리를 도입해봤다. 스크롤 트리거(ScrollTrigger)를 활용해 각 섹션이 화면에 진입하는 시점과 애니메이션 타이밍을 정밀하게 제어하는 풀페이지 구조를 설계하며 인터랙티브 웹의 기초를 배워봤다.",
+    "tags": [
+      "GSAP",
+      "ScrollTrigger"
+    ]
+  }
+]

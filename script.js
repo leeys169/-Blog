@@ -1,7 +1,7 @@
 async function fetchPosts() {
     try {
         // 1. 서버 API 호출
-        const response = await fetch('public/posts.json');
+        const response = await fetch('posts.json');
         const posts = await response.json();
 
         // 2. 날짜 최신순 정렬 (최근에 공부한 내용이 맨 위로!)
